@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ## 📁 Project Structure
 
 ```
-RGB2Point/
+Image-to-Point/
 ├── model.py           # Neural network architecture
 │                      # - PointCloudNet: Main model class
 │                      # - PointCloudGeneratorWithAttention: CFI + GPM modules
