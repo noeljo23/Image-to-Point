@@ -118,6 +118,9 @@ Then open `http://localhost:8501` in your browser.
    - `pc_base`: Path to point cloud directory
    - `img_base`: Path to rendered images directory
    - `list_file`: Path to train/test split files
+  
+Training Data
+You can access this (https://github.com/JaeLee18/RGB2point?tab=readme-ov-file#training) for further setup details
 
 ### Training Command
 
